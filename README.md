@@ -178,6 +178,7 @@
 
 - [《快乐的Linux命令行》](./Linux/快乐的Linux命令行.pdf)
 - [《跟我一起写makefile》](./Linux/跟我一起写makefile.pdf)
+- [《mastering-cmake》](./Linux/mastering-cmake.pdf)
 - [《理解Linux进程》](./Linux/理解Linux进程.pdf)
 - [《深入理解linux内核（第三版）》](./Linux/深入理解linux内核（第三版）.pdf)
 - [《深入Linux内核架构》](./Linux/深入Linux内核架构.pdf)
