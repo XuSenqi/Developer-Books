@@ -30,6 +30,8 @@
 
 ### C++
 
+- [《A_Tour_of_C++》](./Cpp/A_Tour_of_C++.pdf)
+- [《The.C++.Programming.Language.4th.Edition》](./Cpp/The.C++.Programming.Language.4th.Edition.pdf)
 - [《C++ Primer（第5版）》](./Cpp/C++%20Primer（第5版）.pdf)
 - [《C++ Primer Plus（第5版）》](./Cpp/C++%20Primer%20Plus（第5版）.pdf)
 - [《C++ STL中文版》](./Cpp/C++%20STL中文版.pdf)
