@@ -189,6 +189,7 @@
 - [《UNIX编程艺术》](./Linux/UNIX编程艺术.pdf)
 - [《UNIX操作系统设计》](./Linux/UNIX操作系统设计.pdf)
 - [《UNIX环境高级编程（第三版）》](./Linux/UNIX环境高级编程（第三版）.pdf)
+- [《Linux-UNIX系统编程手册（上、下册）中文版》](./Linux/Linux-UNIX系统编程手册（上、下册）中文版.pdf)
 - [《linux系统编程_传智播客_邢文鹏》](./Linux/linux系统编程_传智播客_邢文鹏.pdf)
 
 
