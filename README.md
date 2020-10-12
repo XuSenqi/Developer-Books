@@ -38,6 +38,7 @@
 - [《Effective C++中文版》](./Cpp/Effective%20C++中文版.pdf)
 - [《C++编程思想（第1卷）》](./Cpp/C++编程思想（第1卷）.pdf)
 - [《C++编程惯用法-高级程序员常用用法和技巧》](./Cpp/C++编程惯用法-高级程序员常用用法和技巧.pdf)
+- [《C++ConcurrencyInAction》](./Cpp/C++ConcurrencyInAction.pdf)
 - [《C++并发编程指南》](./Cpp/C++并发编程指南.pdf)
 - [《C++11新特性解析与应用》](./Cpp/C++11新特性解析与应用.pdf)
 - [《C++反汇编与逆向分析技术揭秘》](./Cpp/C++反汇编与逆向分析技术揭秘.pdf)
