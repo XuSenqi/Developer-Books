@@ -175,7 +175,7 @@
 
 ### etcd
 
-- [《原生分布式存储基石: etcd深入解析》](链接:https://pan.baidu.com/s/1edfk-NAGWvgUL6aLHtgB_w  密码:05p5)
+- 《原生分布式存储基石: etcd深入解析》(链接:https://pan.baidu.com/s/1edfk-NAGWvgUL6aLHtgB_w  密码:05p5)
 
 ---
 
@@ -211,6 +211,9 @@
 ### GDB
 - [《A_guide_to_GDB》](./GDB/A_guide_to_GDB.pdf)
 - [《linux下GDB教程》](./GDB/linux下GDB教程.pdf)
+
+### 性能分析
+- [《Systems Performance Enterprise and the Cloud》](./Performance/Systems_Performance_Enterprise_and_the_Cloud.pdf)
 
 
 ---
