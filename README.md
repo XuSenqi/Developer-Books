@@ -185,6 +185,7 @@
 ### 计算机系统
 - [《深入理解计算机系统（原书第三版）》](链接: https://pan.baidu.com/s/11KtZPwRBGS4EcAsrwNZZXg  密码: cngj)
 - [《ComputerSystems_AProgrammersPerspective_3rd》](./ComputerSystems/ComputerSystems_AProgrammersPerspective_3rd.pdf)
+- [《程序员的自我修养—链接、装载与库》](./ComputerSystems/程序员的自我修养—链接、装载与库.pdf)
 ### Operating System 操作系统
 
 - [《计算的本质：深入剖析程序和计算机》](./Operating_System/计算的本质：深入剖析程序和计算机.pdf)
