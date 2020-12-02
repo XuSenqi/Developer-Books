@@ -211,6 +211,10 @@
 - [《Linux-UNIX系统编程手册（上、下册）中文版》](./Linux/Linux-UNIX系统编程手册（上、下册）中文版.pdf)
 - [《linux系统编程_传智播客_邢文鹏》](./Linux/linux系统编程_传智播客_邢文鹏.pdf)
 
+### Windows
+- [《WINDOWS内核原理与实现》](./Windows/WINDOWS内核原理与实现.pdf)
+- [《WindowsServer2012Hyper-VInstallationandConfigurationGuide》](./Windows/WindowsServer2012Hyper-VInstallationandConfigurationGuide.pdf)
+
 ### GDB
 - [《A_guide_to_GDB》](./GDB/A_guide_to_GDB.pdf)
 - [《linux下GDB教程》](./GDB/linux下GDB教程.pdf)
