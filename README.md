@@ -1,8 +1,8 @@
 # Repository Describe
 
-[https://github.com/7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books)
+[https://github.com/XuSenqi/Developer-Books]( https://github.com/7-sevens/Developer-Books)
 
->- repository:  [Developer Books](https://github.com/7-sevens/Developer-Books)
+>- repository:  [Developer Books](https://github.com/XuSenqi/Developer-Books)
 >
 >- brief: 编程开发相关书籍收集分享，持续更新...
 >
