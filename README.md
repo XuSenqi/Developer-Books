@@ -173,6 +173,7 @@
 ### 分布式存储
 
 - [《大规模分布式存储系统：原理解析与架构实战》](./Storage/大规模分布式存储系统.原理解析与架构实战.pdf)
+- [《DesigningData-IntensiveApplications》](./Storage/DesigningData-IntensiveApplications.pdf)
 
 ### etcd
 
